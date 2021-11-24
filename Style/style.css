@@ -175,7 +175,7 @@ li{
         height:99px;
         left:921px;
         position: absolute;
-        rotate: 90deg;
+        transform:rotate(90deg);
         top:138px;
         width:52px;
 
